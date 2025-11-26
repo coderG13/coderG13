@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Aspiring software engineer documenting my tech journey and growth<br/>
 🎓 Pursuing a B.S. in Computer Science at Arizona State University<br/>
-🛡️ Passionate about Cybersecurity, Data Analytics, and Mathematics<br/>
+🛡️ Passionate about Cybersecurity, AI, and Mathematics<br/>
 
 Let’s connect and build something amazing together! 🌐✨
 
