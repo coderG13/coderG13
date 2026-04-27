@@ -27,14 +27,6 @@
 - Writing **clean, maintainable code**
 - Exploring **cloud & backend systems**
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderG13&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderG13&theme=tokyonight" />
-</p>
 
 ---
 
